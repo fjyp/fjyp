@@ -1,8 +1,4 @@
 
-
-<!--
-**fjyp/fjyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi！
 
 我是王延鹏,就读于福州大学。
